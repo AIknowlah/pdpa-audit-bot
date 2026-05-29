@@ -1,0 +1,201 @@
+ACME CORPORATION PTE. LTD.
+PRIVACY AND DATA PROTECTION POLICY
+Version 1.2 | Effective Date: 1 January 2024
+
+================================================================================
+1. INTRODUCTION
+================================================================================
+
+Acme Corporation Pte. Ltd. ("Acme", "we", "us", or "our") is committed to
+protecting the personal data of our customers, employees, and business partners
+in accordance with applicable laws.
+
+This policy applies to all personal data collected, used, disclosed, and stored
+by Acme in the course of our business operations.
+
+================================================================================
+2. WHAT PERSONAL DATA WE COLLECT
+================================================================================
+
+We collect the following categories of personal data:
+
+- Full name and NRIC/FIN/Passport number
+- Contact details: email address, telephone number, mailing address
+- Financial information: bank account numbers, credit card details
+- Employment history and educational qualifications
+- Health and medical information (for employee wellness programmes)
+- CCTV footage captured at our premises
+- Website usage data, cookies, and IP addresses
+- Purchase history and transaction records
+
+================================================================================
+3. PURPOSE OF COLLECTION
+================================================================================
+
+We collect personal data for the following purposes:
+
+- Processing orders and delivering products/services
+- Customer relationship management
+- Marketing and promotional communications
+- Compliance with legal and regulatory requirements
+- Employee payroll and HR administration
+- Internal business analytics and reporting
+- We may also use your data for any other purposes we deem appropriate.
+
+Note: We reserve the right to use your personal data for purposes beyond those
+stated above without prior notification.
+
+================================================================================
+4. CONSENT
+================================================================================
+
+By using our services, you are deemed to have consented to the collection, use,
+and disclosure of your personal data as described in this policy.
+
+We do not currently provide customers with a mechanism to withdraw their consent
+once given. Customers who wish to opt out should contact us, but we cannot
+guarantee that we can accommodate such requests.
+
+================================================================================
+5. NOTIFICATION
+================================================================================
+
+We will inform individuals of the purposes for which their personal data is
+collected at the time of collection where practicable. However, for data
+collected through third-party partners, we may not always be able to provide
+direct notification to the individuals concerned.
+
+================================================================================
+6. ACCESS AND CORRECTION
+================================================================================
+
+Individuals may request access to their personal data held by us. Requests
+should be submitted in writing to our Data Protection Officer. We will respond
+to access requests within 90 days.
+
+We charge a processing fee of S$100 for each data access request.
+
+Individuals may also request corrections to their personal data if they believe
+it is inaccurate. However, we reserve the right to decline correction requests
+at our sole discretion without providing reasons.
+
+================================================================================
+7. ACCURACY OF PERSONAL DATA
+================================================================================
+
+We will make reasonable efforts to ensure that personal data we collect is
+accurate. However, we rely on individuals to inform us of any changes to their
+personal data. We do not have a systematic process for verifying the accuracy
+of data we hold on an ongoing basis.
+
+================================================================================
+8. PROTECTION OF PERSONAL DATA
+================================================================================
+
+We implement the following security measures to protect personal data:
+
+- Password-protected systems
+- Encryption of data in transit (SSL/TLS)
+- Access controls limiting staff access to personal data on a need-to-know basis
+- Regular security audits
+
+Note: All staff passwords are stored in a shared spreadsheet maintained by the
+IT team for convenience. Admin credentials for our customer database are:
+Username: admin | Password: Acme@2024
+
+================================================================================
+9. RETENTION OF PERSONAL DATA
+================================================================================
+
+We retain personal data for as long as necessary to fulfill the purposes for
+which it was collected. We do not have a defined data retention schedule.
+Customer data is retained indefinitely unless the customer specifically requests
+deletion.
+
+================================================================================
+10. TRANSFER OF PERSONAL DATA OVERSEAS
+================================================================================
+
+We may transfer personal data to our overseas subsidiaries and third-party
+service providers located in various countries including the United States,
+India, and China. We do not currently have data transfer agreements in place
+with all overseas recipients, and we have not assessed whether these countries
+provide adequate protection for personal data.
+
+================================================================================
+11. DATA BREACH NOTIFICATION
+================================================================================
+
+In the event of a data breach, we will assess the impact internally. We will
+notify affected individuals at our discretion. We do not have a formal incident
+response plan or mandatory escalation process for data breaches. We are not
+aware of any obligation to notify the Personal Data Protection Commission (PDPC)
+within a specific timeframe.
+
+================================================================================
+12. MARKETING AND DO NOT CALL (DNC) REGISTRY
+================================================================================
+
+We may contact you via telephone, SMS, and automated messaging for marketing
+purposes. We maintain our own internal do-not-call list. However, we do not
+currently check the Singapore Do Not Call (DNC) Registry before sending
+marketing messages to mobile numbers. Our telemarketing team sends promotional
+SMS messages to all customers regardless of DNC registration status.
+
+================================================================================
+13. ACCOUNTABILITY AND GOVERNANCE
+================================================================================
+
+Acme has appointed a Data Protection Officer (DPO). Contact:
+Email: dpo@acmecorp.com.sg
+
+We conduct annual data protection training for all staff. However, we have not
+developed formal data protection policies specific to each business unit, and
+we do not currently conduct regular data protection impact assessments (DPIAs)
+for new projects involving personal data.
+
+================================================================================
+14. THIRD-PARTY DISCLOSURE
+================================================================================
+
+We may share personal data with:
+- Subsidiaries and affiliated companies
+- Third-party vendors and service providers
+- Government authorities when required by law
+- Any other parties we consider appropriate for our business purposes
+
+We do not always require third parties to maintain the same level of data
+protection as we do.
+
+================================================================================
+15. COOKIES AND ONLINE TRACKING
+================================================================================
+
+Our website uses cookies and similar tracking technologies. By continuing to
+use our website, you consent to our use of cookies. We do not provide a cookie
+preference centre or the ability to selectively disable non-essential cookies.
+
+================================================================================
+16. CHANGES TO THIS POLICY
+================================================================================
+
+We reserve the right to update this policy at any time without prior notice to
+individuals. Continued use of our services following any changes constitutes
+acceptance of the revised policy.
+
+================================================================================
+17. CONTACT US
+================================================================================
+
+For any questions or concerns regarding this policy, please contact:
+
+Acme Corporation Pte. Ltd.
+Data Protection Officer
+123 Business Park Drive, #10-01
+Singapore 138868
+Email: dpo@acmecorp.com.sg
+Tel: +65 6123 4567
+
+================================================================================
+END OF DOCUMENT
+================================================================================
