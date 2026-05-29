@@ -212,6 +212,9 @@ for Agentic AI (v1.5, May 2026)** and the **PDPA 2012 (as amended)**:
 - Analysis quality depends on the completeness of the input document
 - Case precedent database covers 2017–2023 decisions; newer cases may not be included
 - The tool analyses text content only — it cannot assess actual organisational practices
+- Very long documents may cause the AI response to be truncated. If the report appears incomplete, split the document into sections and analyse each separately.
+- This tool analyses the public-facing privacy policy document only. Some findings (e.g. absence of a breach response plan or retention schedule) may be addressed by internal organisational documents not visible in the public policy. A clean report does not guarantee full PDPA compliance across all internal practices.
+- Not all PDPA obligations require public disclosure. Certain requirements (staff training, internal data protection policies, vendor contracts, breach response procedures) are internal governance matters. The bot flags their absence in the public policy as a gap — organisations should verify these are addressed internally even if not stated publicly.
 
 ---
 
